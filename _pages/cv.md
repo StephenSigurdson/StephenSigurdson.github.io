@@ -31,6 +31,7 @@ Skills
   * C++
   * MATLAB
 * Microsoft Office Suite
+* Teamwork
 
 <!-- Publications
 ======
