@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a 3rd yearstudent at Virginia Tech studying electrical engineering with a focus in energy and power electronic systems. my expected graduation date is May 2027. 
 
-I'm from Massachusetts and some of my interests include playing soccer, basketball, video games and skiing. I'm a big fan of sports and my favorite teams are the Patriots, Red Sox, Bruins and Celtics. 
+I'm from Massachusetts and some of my interests include playing soccer, basketball, video games and skiing. I'm a big fan of sports and my favorite teams are the New England Patriots, Boston Red Sox, Boston Bruins and Boston Celtics. 
 
 <!-- A data-driven personal website
 ======
