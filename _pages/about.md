@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 3rd year student at Virginia Tech studying electrical engineering with a focus in energy and power electronic systems, I also have an interests in control systems and programming. My expected graduation date is May 2027. 
+I'm a 3rd year student at Virginia Tech studying electrical engineering with a focus in energy and power electronic systems, I also have interests in control systems and programming. My expected graduation date is May 2027. 
 
 I'm from Massachusetts and some of my interests include playing soccer, basketball, video games and skiing. I'm a big fan of sports and my favorite teams are the New England Patriots, Boston Red Sox, Boston Bruins and Boston Celtics. 
 

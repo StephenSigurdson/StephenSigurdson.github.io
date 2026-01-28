@@ -16,11 +16,11 @@ Education
 
 Work experience
 ======
-* Summer 2025: Intern in Data Systems
-  * GE Aerospace Engineering Engines Intern
+* Summer 2025: GE Aerospace Engineering Engines Intern
+  * In the Data Systems group for engine testing.
   * Duties includes: Updated and maintained engine test data acquisition programs, made a program to greatly assist in writing engine test scripts.
 
-* Winter 2021 - Summer 2024: Produce Associate
+* May 2021 - August 2024: Produce Associate
   * Market Basket
   * Duties includes: Stock Shelves, helped customers, made sure everything was ready for the next day by the end of my shifts.
   
